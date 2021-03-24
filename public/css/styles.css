@@ -1,0 +1,29 @@
+html {
+  background: url(../assets/nopop.gif) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  color: hotpink;
+}
+
+.eth-button {
+  position: fixed;
+    bottom: 8px;
+    right: 8px;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: hotpink;
+}
